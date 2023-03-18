@@ -1,0 +1,13 @@
+**.glob
+**.aux
+**.vo
+**.vok
+**.vos
+
+**~
+
+.coqdeps.d
+.makefile.d
+
+.vscode
+.lia.cache
